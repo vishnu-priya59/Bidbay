@@ -17,18 +17,18 @@ function Footer() {
           <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
             Developed By{" "}
             <a
-              href="https://portfolio-website-rosy-nu.vercel.app/"
+              href=""
               target="_blank"
               rel="noreferrer"
               className=" hover:text-cyan-500 hover:font-medium hover:text-xl duration-200"
             >
-              Vishnu Priya & Naga Sai Rahul
+              Vishnu Priya & Amrutha
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <button>
               <a
-                href="https://github.com/Rahul21sai/BID_BAY"
+                href="https://github.com/vishnu-priya59"
                 className="bg-white hover:bg-[#161B22] hover:text-white duration-200 border text-black py-2 px-4 rounded"
                 target="_blank"
                 rel="noreferrer"
