@@ -1,5 +1,5 @@
 # <div align="center">BidBay</div>
-link to website = https://bid-bay.vercel.app/
+link to website = https://bidbay.vercel.app
 
 <div align="center">
   <img src= "https://github.com/Rahul21sai/BidBay_mern/assets/110412514/7917bacb-a93f-4985-8c88-c7fd4d421adb"
